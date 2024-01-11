@@ -19,9 +19,12 @@ To run this project, you need to have Node.js and TypeScript installed.
 
 1. Compile the TypeScript file to JavaScript:
 
-```bash
-tsc sortList.ts
+    ```bash
+    tsc sortList.ts
+    ```
+
 2. Run the resulting JavaScript file:
 
-```bash
-node sortList.js
+    ```bash
+    node sortList.js
+    ```
