@@ -21,3 +21,7 @@ To run this project, you need to have Node.js and TypeScript installed.
 
 ```bash
 tsc sortList.ts
+2. Run the resulting JavaScript file:
+
+```bash
+node sortList.js
