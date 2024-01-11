@@ -1,5 +1,3 @@
-# Sort_A_List_and_Hello_World
-
 # TypeScript Sorting Project
 
 This project demonstrates how to sort a an array of objects in TypeScript using the Insertion Sort algorithm,
