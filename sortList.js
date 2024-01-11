@@ -27,6 +27,7 @@ function main() {
     ];
     // Call the insertion sort function and log the sorted array
     console.log(insertionSort(students));
+    console.log("Hello World");
 }
 // Call the main function
 main();
